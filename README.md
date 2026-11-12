@@ -1,6 +1,6 @@
 # Hi, I'm Chaitanya
 
-**AI Product Manager who builds.** I prototype the voice agents and evaluation tools I spec, then ship them. 4+ years in payments, telecom and data platforms. MS in Data Science & Management, IIM Indore. Moving to Amsterdam.
+**AI Product Manager who builds.** I prototype the AI products I spec, then ship them. 4+ years in payments, telecom and data platforms. MS in Data Science & Management, IIM Indore. Moving to Amsterdam.
 
 [Portfolio](https://chaitanyakalluri.tech) · [LinkedIn](https://linkedin.com/in/chaitanyakalluri) · [Resume](https://chaitanyakalluri.tech/resume)
 
